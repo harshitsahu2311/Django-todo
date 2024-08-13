@@ -1,0 +1,54 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+August 13, 2024 - 13:29:16
+Django version 4.2.11, using settings 'todoApp.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+[13/Aug/2024 13:29:46] "GET /todos/ HTTP/1.1" 200 4681
+[13/Aug/2024 13:29:46] "GET /todos/ HTTP/1.1" 200 4681
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+August 13, 2024 - 13:29:59
+Django version 4.2.11, using settings 'todoApp.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+[13/Aug/2024 13:30:09] "GET /todos/ HTTP/1.1" 200 4681
+[13/Aug/2024 13:30:10] "GET /todos/ HTTP/1.1" 200 4681
+[13/Aug/2024 13:31:05] "GET /todos/ HTTP/1.1" 200 4681
+[13/Aug/2024 13:31:05] "GET /static/css/style.css HTTP/1.1" 304 0
+[13/Aug/2024 13:31:07] "GET /todos/ HTTP/1.1" 200 4681
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified some issues:
+
+WARNINGS:
+todos.Todo: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the TodosConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 1 issue (0 silenced).
+August 13, 2024 - 14:00:09
+Django version 4.2.11, using settings 'todoApp.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+[13/Aug/2024 14:01:35] "GET /todos/ HTTP/1.1" 200 4681
+[13/Aug/2024 14:01:35] "GET /static/css/style.css HTTP/1.1" 304 0
