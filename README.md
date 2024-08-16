@@ -1,4 +1,4 @@
-# django-todo
+# Django-todo-automate
 A simple todo app built with django
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
@@ -7,13 +7,20 @@ To get this repository, run the following command inside your git enabled termin
 ```bash
 git clone https://github.com/harshitsahu2311/Django-todo-automate.git
 ```
+
+You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
+
+For linux users, command to install django in local system 
+```bash
+sudo pip3 install django
+```
+
+Once you have downloaded django, go to the cloned repo directory and run the following command
+
 Now switch to the django-todo folder by
 ```bash
 cd /django-todo
 ```
-You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
-
-Once you have downloaded django, go to the cloned repo directory and run the following command
 
 ```bash
 python manage.py makemigrations
